@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alifaraz14
 - 👀 I’m interested in...Machine Learning.
-- 🌱 I’m currently learning...at a normal pace.
+- 🌱 I’m currently learning...at a normal pace :P
 - 💞️ I’m looking to collaborate...on every good project possible.
 - 📫 How to reach me -> email-id: alifaraz@iitk.ac.in
 
